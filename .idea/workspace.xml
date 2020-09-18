@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5fd5b30-f610-45b4-852c-249dbe8f008f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/js/displayBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/js/displayBlock.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hfdgonKOCxXLhRaO33S0F5IYM1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5fd5b30-f610-45b4-852c-249dbe8f008f" name="Default Changelist" comment="" />
+      <created>1600406193543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600406193543</updated>
+      <workItem from="1600406195106" duration="323000" />
+      <workItem from="1600408052034" duration="460000" />
+      <workItem from="1600409729298" duration="400000" />
+      <workItem from="1600414544616" duration="811000" />
+    </task>
+    <task id="LOCAL-00001" summary="new create project">
+      <created>1600406351443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600406351443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new create project" />
+    <option name="LAST_COMMIT_MESSAGE" value="new create project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="109" key="#Deployment" timestamp="1600414413687">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="109" key="#Deployment/0.0.1680.1050@0.0.1680.1050" timestamp="1600414413687" />
+    <state x="320" y="92" key="#SSH_Configurations" timestamp="1600414412628">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="320" y="92" key="#SSH_Configurations/0.0.1680.1050@0.0.1680.1050" timestamp="1600414412628" />
+    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1600406350954">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1600406350954" />
+    <state x="639" y="440" key="NewPhpFileDialog" timestamp="1600406228507">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="639" y="440" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600406228507" />
+    <state x="340" y="202" key="Vcs.Push.Dialog.v2" timestamp="1600406355972">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="340" y="202" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600406355972" />
+    <state x="603" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600414427063">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="603" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600414427063" />
   </component>
 </project>
