@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5fd5b30-f610-45b4-852c-249dbe8f008f" name="Default Changelist" comment="">
+    <list default="true" id="229789e7-6b0b-4657-abf3-ce123ce59dd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local/js/displayBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/local/js/displayBlock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/php_interface/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/local/php_interface/init.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,17 +14,10 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1hfdgonKOCxXLhRaO33S0F5IYM1" />
+  <component name="ProjectId" id="1hg8JL6ktX0i6PIb5wu12npsFCZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,64 +25,47 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b5fd5b30-f610-45b4-852c-249dbe8f008f" name="Default Changelist" comment="" />
-      <created>1600406193543</created>
+      <changelist id="229789e7-6b0b-4657-abf3-ce123ce59dd4" name="Default Changelist" comment="" />
+      <created>1600421306556</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600406193543</updated>
-      <workItem from="1600406195106" duration="323000" />
-      <workItem from="1600408052034" duration="460000" />
-      <workItem from="1600409729298" duration="400000" />
-      <workItem from="1600414544616" duration="811000" />
+      <updated>1600421306556</updated>
+      <workItem from="1600421309651" duration="20018000" />
     </task>
-    <task id="LOCAL-00001" summary="new create project">
-      <created>1600406351443</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600406351443</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="new create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="new create project" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="109" key="#Deployment" timestamp="1600414413687">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="395" y="47" width="832" height="711" key="#SSH_Configurations" timestamp="1600430351269">
+      <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state x="340" y="109" key="#Deployment/0.0.1680.1050@0.0.1680.1050" timestamp="1600414413687" />
-    <state x="320" y="92" key="#SSH_Configurations" timestamp="1600414412628">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="395" y="47" width="832" height="711" key="#SSH_Configurations/50.27.1316.741@50.27.1316.741" timestamp="1600430351269" />
+    <state x="305" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600430493747">
+      <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state x="320" y="92" key="#SSH_Configurations/0.0.1680.1050@0.0.1680.1050" timestamp="1600414412628" />
-    <state x="377" y="25" key="CommitChangelistDialog2" timestamp="1600406350954">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="305" y="31" width="1022" height="737" key="SettingsEditor/50.27.1316.741@50.27.1316.741" timestamp="1600430493746" />
+    <state x="568" y="90" width="323" height="580" key="ftp.server.browser" timestamp="1600421662456">
+      <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state x="377" y="25" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1600406350954" />
-    <state x="639" y="440" key="NewPhpFileDialog" timestamp="1600406228507">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="568" y="90" width="323" height="580" key="ftp.server.browser/50.27.1316.741@50.27.1316.741" timestamp="1600421662456" />
+    <state x="505" y="136" width="405" height="529" key="webDeployment.PermissionsDialog.Tabs" timestamp="1600421962343">
+      <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state x="639" y="440" key="NewPhpFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600406228507" />
-    <state x="340" y="202" key="Vcs.Push.Dialog.v2" timestamp="1600406355972">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="340" y="202" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600406355972" />
-    <state x="603" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600414427063">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="603" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600414427063" />
+    <state x="505" y="136" width="405" height="529" key="webDeployment.PermissionsDialog.Tabs/50.27.1316.741@50.27.1316.741" timestamp="1600421962343" />
   </component>
 </project>
